@@ -8,5 +8,6 @@ this is clone  https://github.com/Rupan/gmp.git
 </p>
 3. run
 </p>
-other configure project can be used this srcipt
+</p>
+the other configure project can be used this srcipt
 
